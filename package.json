@@ -1,0 +1,17 @@
+{
+  "name": "tabnews",
+  "version": "1.0.0",
+  "description": "repo para implementar o tabnews.com.br pelo  curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saulo",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
